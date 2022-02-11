@@ -1,0 +1,37 @@
+
+    .background {
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJEMmLK8yzJUytiXseGg3OJvmqzDqoe8uMZg&usqp=CAU");
+    margin: 0;
+    padding: 0;
+  }
+  .topnav {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(252, 252, 252, 0.575);
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 14px 16px;
+    font-size: 20px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+  }
+  .topnav a:hover {
+    background: rgb(23, 24, 24);
+  }
+  
+  header h1 {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+  .description {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color: rgb(194, 194, 194);
+    text-align: center;
+  }
+  
